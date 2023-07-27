@@ -1,7 +1,7 @@
 # E-Commerce
 ### [Live Site](https://cospare.netlify.app/)
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+![eCommerce](https://github.com/Vikram739/E-COMMERCE-WEBSITE-Using-React/blob/master/cospare.png)
 
 ## Description
 • Dynamic User Interfaces: Dynamic user interfaces with efficient updates and renderings. This provides a seamless and smooth user experience.
